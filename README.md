@@ -1,5 +1,5 @@
 
-This contains widget prototypes for Prifina Holistic Application
+This contains widget prototypes for Prifina Holistic Application. 
 This README is a work-in-progress. Please check the issues to see if something has not already been flagged for review.
 
 
