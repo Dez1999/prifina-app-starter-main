@@ -1,3 +1,4 @@
+Branch for building Widget Components
 This README is a work-in-progress. Please check the issues to see if something has not already been flagged for review.
 
 # Getting Started
